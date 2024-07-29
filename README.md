@@ -1,3 +1,7 @@
+https://colab.research.google.com/github/Map987/bilibili_qrcode_login/blob/main/Untitled70.ipynb
+
+
+
 <h1>bilibili_qrcode_login</h1>
 基于python的bilibili网页登录二维码输出到控制台的小工具
 
